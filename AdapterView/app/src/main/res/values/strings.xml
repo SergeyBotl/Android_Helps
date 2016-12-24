@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Adapter_Views</string>
+    <string name="header_title">Header</string>
 </resources>

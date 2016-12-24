@@ -1,9 +1,9 @@
 package com.example.sergey.adapter_views.entity;
 
 public class Model {
-    int imageId;
-    String marka;
-    String model;
+   private int imageId;
+    private String marka;
+    private String model;
 
     public Model(int imageId, String marka, String model) {
         this.imageId = imageId;
